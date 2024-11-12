@@ -54,5 +54,5 @@ The application should now be accessible at `http://localhost:4568` in your web 
 This application uses the date and time of the local machine to calculate the days and display the missing date and days.
 
 ## Troubleshooting
-Ensure Docker is installed and running correctly if using the Docker setup.
-Make sure no other application is using port `4568` before running the server.
+ - Ensure Docker is installed and running correctly if using the Docker setup.
+ - Make sure no other application is using port `4568` before running the server.
